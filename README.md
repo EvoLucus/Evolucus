@@ -1,8 +1,10 @@
-Evolucus 
+##Kavindya Hansamali 
 
 **Software Engineer | Open Source Enthusiast**
 
-<a href="https://github.com/sponsors/VehanRajintha"><img src="https://sponsors-badge.vercel.app/api/sponsors/VehanRajintha" alt="Sponsor VehanRajintha on GitHub"></a>
+<a href="https://github.com/sponsors/Kavindya Hansamali 
+"><img src="https://sponsors-badge.vercel.app/api/sponsors/VehanRajintha" alt="Sponsor Kavindya Hansamali 
+ on GitHub"></a>
 
 **About Me**
 
@@ -13,17 +15,23 @@ Evolucus
 
 **Connect With Me**
 
-* **Email:** IT23646360@my.sliit.lk
-* **Website:** vehanrajintha.netlify.app
-* **LinkedIn:** rajintha.vehan
-* **GitHub:** vehanrajintha
-* **Twitter:** [add your Twitter handle if you have one]
+* **Email:** ______________________
+* **LinkedIn:** Kavindya Hansamali 
+
+* **GitHub:** Kavindya Hansamali 
+
+* **Twitter:** Kavindya Hansamali 
+
 
 **Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=VehanRajintha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kavindya Hansamali 
+&
+count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VehanRajintha&layout=pie&langs_count=8&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindya Hansamali 
+&
+layout=pie&langs_count=8&theme=tokyonight" alt="Top Languages" />
 
 **Achievements**
 
@@ -48,8 +56,11 @@ Evolucus
 If you find my work helpful, consider sponsoring me on GitHub. Your support will help me continue creating and sharing my projects.
 
 <div align="right">
-  <a href="https://github.com/VehanRajintha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VehanRajintha&theme=tokyonight" alt="GitHub Profile" />
+  <a href="https://github.com/Kavindya Hansamali 
+"
+>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavindya Hansamali 
+&theme=tokyonight" alt="GitHub Profile" />
   </a>
 </div>
 
